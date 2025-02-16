@@ -1,1 +1,1 @@
-# netflix_database_movies_project
+# Analysing Netflix movies and Tv shows using PostgeSQL
