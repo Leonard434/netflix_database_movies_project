@@ -143,4 +143,4 @@ GROUP BY 1;
 ```
 # Author - Leonard Thuranira
 Follow me on Linkedin
-- Linkedin [Thuranira](linkedin.com/in/leonard-thuranira-67785024a/)
+- Linkedin <https:linkedin.com/in/leonard-thuranira-67785024a/>
